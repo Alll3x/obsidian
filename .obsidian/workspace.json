@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "610706c7d0f0c803",
+        "id": "8632feecbe4e3f80",
         "type": "tabs",
         "children": [
           {
-            "id": "c7477a24edfcd0d5",
+            "id": "0385d837a33a5b0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "right": {
     "id": "838d014980d64fed",
@@ -135,11 +135,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1b0bcaf4c8c4990e",
+  "active": "0385d837a33a5b0a",
   "lastOpenFiles": [
+    "Fenômenos de Transporte/Calor.md",
+    "Imagens/Pasted image 20240304224337.png",
+    "Imagens/Pasted image 20240304224257.png",
+    "Fenômenos de Transporte/Aula 1 - Introdução.md",
+    "Imagens/Pasted image 20240304223556.png",
+    "Imagens/Pasted image 20240304223519.png",
+    "Fenômenos de Transporte/Fenômenos de Transporte.md",
+    "Faculdade/Faculdade.md",
+    "Aula 1 - Introdução.md",
+    "Fenômenos de Transporte/Lei de Fourrier.md",
+    "Fenômenos de Transporte/Lei de Fick.md",
+    "Imagens/Pasted image 20240304222501.png",
+    "Imagens/Pasted image 20240304222436.png",
+    "Imagens/Pasted image 20240304222400.png",
+    "Imagens/Pasted image 20240304222330.png",
+    "Imagens/Pasted image 20240304222236.png",
+    "Imagens/Pasted image 20240304221946.png",
+    "Fenômenos de Transporte/Transferência da Quantidade de Movimento.md",
+    "Imagens",
+    "Fenômenos de Transporte",
     "Faculdade",
     "Welcome.md"
   ]
