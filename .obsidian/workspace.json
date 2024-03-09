@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd0add2faede15a",
+        "id": "185bea1720c9aeba",
         "type": "tabs",
         "children": [
           {
-            "id": "62b5312bc559e104",
+            "id": "0e6f91914d7c8318",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Metodologia da pesquisa/Aula 1/Aula 1 - Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e492fdb0594e9f2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,37 +152,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "62b5312bc559e104",
+  "active": "9e492fdb0594e9f2",
   "lastOpenFiles": [
-    "Gerência de Projeto/Aula 1/Aula 1 - Introdução.md",
+    "Faculdade/Metodologia da pesquisa/Aula 1/Aula 1 - Introdução.md",
+    "Faculdade/Metodologia da pesquisa/Metologia da Pesquisa.md",
+    "Faculdade/Faculdade.md",
+    "Faculdade/Metodologia da pesquisa/Aula 1",
+    "Faculdade/Gerência de Projeto/Aula 1/Aula 1 - Introdução.md",
+    "Faculdade/Fenômenos de Transporte/Fenômenos de Transporte.md",
+    "Faculdade/Fenômenos de Transporte/Aula 1/Lei de Fourrier.md",
+    "Faculdade/Gerência de Projeto/Gerência de Projeto.md",
+    "Faculdade/Metodologia da pesquisa",
     "Imagens/Pasted image 20240307224149.png",
     "Imagens/Pasted image 20240307222641.png",
     "Imagens/Pasted image 20240307222638.png",
     "Imagens/Pasted image 20240307222603.png",
     "Início do projeto.md",
-    "Gerência de Projeto/Aula 1/Estrutura Funcional.md",
-    "Gerência de Projeto/Aula 1/Estrutura Matricial.md",
-    "Fenômenos de Transporte/Aula 1",
-    "Gerência de Projeto/Aula 1",
+    "Faculdade/Gerência de Projeto/Aula 1/Estrutura Funcional.md",
+    "Faculdade/Gerência de Projeto/Aula 1/Estrutura Matricial.md",
+    "Faculdade/Fenômenos de Transporte/Aula 1",
+    "Faculdade/Gerência de Projeto/Aula 1",
     "Imagens/Pasted image 20240307220729.png",
     "Imagens/Pasted image 20240307220527.png",
-    "Gerência de Projeto/Aula 1/Estrutura Projetizada.md",
+    "Faculdade/Gerência de Projeto/Aula 1/Estrutura Projetizada.md",
     "Imagens/Pasted image 20240307220203.png",
-    "Gerência de Projeto/Aula 1/Gerência de Projeto.md",
-    "Fenômenos de Transporte/Aula 1/Fenômenos de Transporte.md",
-    "Gerência de Projeto",
-    "Faculdade/Faculdade.md",
-    "Fenômenos de Transporte/Aula 1/Calor.md",
+    "Faculdade/Gerência de Projeto",
+    "Faculdade/Fenômenos de Transporte/Aula 1/Calor.md",
     "Imagens/Pasted image 20240304224337.png",
     "Imagens/Pasted image 20240304224257.png",
-    "Fenômenos de Transporte/Aula 1/Aula 1 - Introdução.md",
+    "Faculdade/Fenômenos de Transporte/Aula 1/Aula 1 - Introdução.md",
     "Imagens/Pasted image 20240304223556.png",
-    "Aula 1 - Introdução.md",
-    "Fenômenos de Transporte/Aula 1/Lei de Fourrier.md",
-    "Fenômenos de Transporte/Aula 1/Lei de Fick.md",
+    "Faculdade/Fenômenos de Transporte/Aula 1/Lei de Fick.md",
     "Fenômenos de Transporte/Transferência da Quantidade de Movimento.md",
     "Imagens",
-    "Fenômenos de Transporte",
+    "Faculdade/Fenômenos de Transporte",
     "Faculdade",
     "Welcome.md"
   ]

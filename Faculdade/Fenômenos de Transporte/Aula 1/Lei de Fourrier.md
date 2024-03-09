@@ -6,7 +6,7 @@
 
 ![[Pasted image 20240304215731.png]]
 
-[[Fenômenos de Transporte/Aula 1/Aula 1 - Introdução#Modos de condução|Os 3 tipos de transportes de calor]] 
+[[Faculdade/Fenômenos de Transporte/Aula 1/Aula 1 - Introdução#Modos de condução|Os 3 tipos de transportes de calor]] 
 
 ![[Pasted image 20240304220426.png]]
 
