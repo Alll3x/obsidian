@@ -8,27 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e6f91914d7c8318",
+            "id": "bf2926b2d8bf720b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Metodologia da pesquisa/Aula 1/Aula 1 - Introdução.md",
+                "file": "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de moviemento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e492fdb0594e9f2",
+            "id": "ef31466de8cf3afd",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de moviemento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de moviemento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de moviemento.md"
+              }
             }
           }
         ]
@@ -152,36 +155,42 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9e492fdb0594e9f2",
+  "active": "1b0bcaf4c8c4990e",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20240320220345.png",
+    "Imagens/Pasted image 20240320220304.png",
+    "Imagens/Pasted image 20240320220217.png",
+    "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de moviemento.md",
+    "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de movimento.md",
+    "Imagens/Pasted image 20240320215833.png",
+    "Imagens/Pasted image 20240320215650.png",
+    "Imagens/Pasted image 20240320215413.png",
+    "Faculdade/Fenômenos de Transporte/Aula 2/Lei de Newton da viscosidade.md",
+    "Faculdade/Fenômenos de Transporte/Fenômenos de Transporte.md",
+    "Imagens/Pasted image 20240320215403.png",
+    "Imagens/Pasted image 20240320215256.png",
+    "Imagens/Pasted image 20240320215140.png",
+    "Imagens/Pasted image 20240320215055.png",
+    "Imagens/Pasted image 20240320215002.png",
+    "Faculdade/Fenômenos de Transporte/Aula 2",
+    "Fenômenos de Transporte",
+    "Faculdade/Fenômenos de Transporte/Aula 1/Aula 1 - Introdução.md",
     "Faculdade/Metodologia da pesquisa/Aula 1/Aula 1 - Introdução.md",
     "Faculdade/Metodologia da pesquisa/Metologia da Pesquisa.md",
     "Faculdade/Faculdade.md",
     "Faculdade/Metodologia da pesquisa/Aula 1",
     "Faculdade/Gerência de Projeto/Aula 1/Aula 1 - Introdução.md",
-    "Faculdade/Fenômenos de Transporte/Fenômenos de Transporte.md",
     "Faculdade/Fenômenos de Transporte/Aula 1/Lei de Fourrier.md",
     "Faculdade/Gerência de Projeto/Gerência de Projeto.md",
     "Faculdade/Metodologia da pesquisa",
-    "Imagens/Pasted image 20240307224149.png",
-    "Imagens/Pasted image 20240307222641.png",
-    "Imagens/Pasted image 20240307222638.png",
-    "Imagens/Pasted image 20240307222603.png",
     "Início do projeto.md",
     "Faculdade/Gerência de Projeto/Aula 1/Estrutura Funcional.md",
     "Faculdade/Gerência de Projeto/Aula 1/Estrutura Matricial.md",
     "Faculdade/Fenômenos de Transporte/Aula 1",
     "Faculdade/Gerência de Projeto/Aula 1",
-    "Imagens/Pasted image 20240307220729.png",
-    "Imagens/Pasted image 20240307220527.png",
     "Faculdade/Gerência de Projeto/Aula 1/Estrutura Projetizada.md",
-    "Imagens/Pasted image 20240307220203.png",
     "Faculdade/Gerência de Projeto",
     "Faculdade/Fenômenos de Transporte/Aula 1/Calor.md",
-    "Imagens/Pasted image 20240304224337.png",
-    "Imagens/Pasted image 20240304224257.png",
-    "Faculdade/Fenômenos de Transporte/Aula 1/Aula 1 - Introdução.md",
-    "Imagens/Pasted image 20240304223556.png",
     "Faculdade/Fenômenos de Transporte/Aula 1/Lei de Fick.md",
     "Fenômenos de Transporte/Transferência da Quantidade de Movimento.md",
     "Imagens",

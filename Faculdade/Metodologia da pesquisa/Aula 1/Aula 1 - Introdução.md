@@ -32,3 +32,21 @@ Uma pesquisa requer um **problema de pesquisa**, uma questão norteadora, que di
  - Procurar por definições 
  - Usar google acadêmico (scholar.google.com.br)
  - Usar google books (books.google.com.br)
+
+## Definições da pesquisa 
+
+### Abordagem
+![[Pasted image 20240314210020.png]]
+
+### Pesquisa
+- Bibliográfica: é a pesquisa em que a única fonte de dados são materiais teóricos. Assim, as compreensões atingidas  partem daquilo que já foi publicado. 
+- Documental: é similar a pesquisa bibliográfica. Porém, a fonte de dados são documentos. Entendemos documentos como atas, reuniões, normativas e leis propriamente ditas.
+- Experimental: é uma pesquisa em que são realizados experimentos, pressupondo manipulação e controle de variáveis. O pesquisador seleciona grupos distintos e submete os mesmos a distintos testes. Geralmente é qualitativa.
+- Ex-Post-Facto: é uma pesquisa em que a investigação é realizada após o fato ter ocorrido. Assim, busca-se uma compreensão daquilo que já aconteceu sem a manipulação das variáveis.
+- Survey: é uma pesquisa de opinião de um determinado grupo de interesse. As pessoas são entrevistadas diretamente e suas opiniões nem sempre convergem com o conhecimento científico. 
+- Estudo de caso: é uma pesquisa que visa estudar um caso específico. Suas características são:
+	- Visam um fenômeno contemporâneo
+	- A fronteira entre fenômeno e contexto não é clara
+	- O pesquisador não manipula variáveis
+- Participante: é uma pesquisa em que o pesquisador vivencia o mesmo contexto dos investigados, observando o fenômeno diretamente
+- Ação: é similar à pesquisa participante. A diferença é o fato de haver um interesse comum em alterar algum aspecto da realidade.
