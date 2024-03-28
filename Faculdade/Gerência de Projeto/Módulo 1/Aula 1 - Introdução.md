@@ -1,6 +1,6 @@
 # O que é um projeto 
 
-"Um projeto é um esforço temporário empreendido para cirar um produto, serviço ou resultado exclusivo." - **Guia PMBOK 2017**
+"Um projeto é um esforço temporário empreendido para cirar um produto, serviço ou resultado exclusivo." - **Guia [[PMBOK e grupos de processos| PMBOK]] 2017** 
 
 "Projeto é um processo único, consistido de um grupo de atividades copordenadas e controladas com datas para início e término, empreendido para alcance de um objetivo, conforme requisitos espedcíficos, incluindo limitações de tempo, custo e recusros." - **NBR 10006**
 
@@ -27,10 +27,10 @@
 - Definições dos requisitos e do escopo pobre e incompleto
 - Estimativas de tempo incorretas, em função da incompreensão da complexidade do projeto
 - Orçamento mal definido ou com restrições
-- Desconhecimento ou incompreeensão dos objetios por parte dos participantes do projeto
+- Desconhecimento ou incompreensão dos objetivos por parte dos participantes do projeto
 - Falta de planos consistentes que orientem a execução, controle e encerramento do projeto 
 
-## Caracerísticas da gestão de projetos
+## Características da gestão de projetos
 
 - Realizado por pessoas
 - Limitado por recursos definidos 
@@ -48,8 +48,8 @@
 
 # Ciclo de vida de um projeto
 
-- Um projeto é constituido de diversas fazer, e o ciclo de vida se da desde a concepção do projeto até a finalização 
-- As fases são determinadas pelo nível de complxidade e controle requerido pelas organizações e pela área de atuação
+- Um projeto é constituído de diversas fazer, e o ciclo de vida se da desde a concepção do projeto até a finalização 
+- As fases são determinadas pelo nível de complexidade e controle requerido pelas organizações e pela área de atuação
 - Tipicamente pode ser separado como:
 	- Início do projeto
 	- Organização
@@ -73,7 +73,7 @@
 
 ## Seleção de Projetos
 
-As vezes é necessário selecionar um ou outro projeto para ser executado ou abandonado, podemos usar os eguintes métodos para isso
+As vezes é necessário selecionar um ou outro projeto para ser executado ou abandonado, podemos usar os seguintes métodos para isso
 
 - **Tempo de retorno**: é o número de períodos de tempo até o ponto onde as receitas acumuladas excedem os custos acumulados e o projeto 'dará lucro'. Quanto menor o tempo de retorno melhor
 - **Valor presente**: avalia o valor do produto em relação ao que será gasto, bem como os retornos em relação a uma taxa.
