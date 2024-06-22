@@ -2,7 +2,7 @@
 
 ![[Pasted image 20240304215553.png]]
 
- Quando dois corpos com temperatura diferente entram em cotontato, o corpo de **maior temperatura**, transfere o calor para o de **menor temperatura**, até que se atinga o **equilibrio térmico**.
+ Quando dois corpos com temperatura diferente entram em contato, o corpo de **maior temperatura**, transfere o calor para o de **menor temperatura**, até que se atinja o **equilíbrio térmico**.
 
 ![[Pasted image 20240304215731.png]]
 
@@ -10,3 +10,4 @@
 
 ![[Pasted image 20240304220426.png]]
 
+![[Pasted image 20240408210010.png]]

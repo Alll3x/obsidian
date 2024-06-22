@@ -16,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "532f6fac0d0ed571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Circuitos Digitais/Circuitos Digitais 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4de6d9536895cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md"
+              }
             }
           }
         ]
@@ -141,50 +170,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dedf4d8780a60553",
+  "active": "1b0bcaf4c8c4990e",
   "lastOpenFiles": [
-    "Faculdade/Gerência de Projeto/Módulo 2/Áreas de conhecimento de integração e principais.md",
-    "Faculdade/Gerência de Projeto/Módulo 2/PMBOK e grupos de processos.md",
-    "Faculdade/Gerência de Projeto/Módulo 2/Aula 2 - Áreas do conhecimento.md",
+    "Imagens/Pasted image 20240615183904.png",
+    "Imagens/Pasted image 20240615183518.png",
+    "Imagens/Pasted image 20240615182717.png",
+    "Imagens/Pasted image 20240615182248.png",
+    "Imagens/Pasted image 20240615180632.png",
+    "Imagens/Pasted image 20240615180617.png",
+    "Imagens/Pasted image 20240615175911.png",
+    "Imagens/Pasted image 20240615175738.png",
+    "Imagens/Pasted image 20240615175615.png",
+    "Faculdade/Circuitos Digitais/Circuitos Digitais 1.md",
+    "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
+    "Faculdade/Circuitos Digitais/Modulo 1",
+    "Faculdade/Faculdade.md",
+    "Faculdade/Circuitos Digitais",
+    "Faculdade/Metodologia da pesquisa/Unidade 4/Aula 4 - TCC.md",
+    "Faculdade/Gerência de Projeto/Unidade 4/Aula 4 - Métodos Ágeis de gerenciamento de projetos.md",
+    "Faculdade/Fenômenos de Transporte/Unidade 4/Aula 4 - Transferência de massa.md",
+    "Imagens/Pasted image 20240424212552.png",
+    "Imagens/Pasted image 20240424212504.png",
+    "Faculdade/Fenômenos de Transporte/Módulo 1/Lei de Fick.md",
+    "Faculdade/Fenômenos de Transporte/Unidade 4",
     "Faculdade/Fenômenos de Transporte/Fenômenos de Transporte.md",
+    "Faculdade/Metodologia da pesquisa/Metologia da Pesquisa.md",
+    "Faculdade/Gerência de Projeto/Unidade 4",
+    "Faculdade/Gerência de Projeto/Gerência de Projeto.md",
+    "Faculdade/Metodologia da pesquisa/Unidade 4",
+    "Faculdade/Metodologia da pesquisa/Unidade 3/Aula 3 - Instrumento de coleta de dados.md",
     "Faculdade/Metodologia da pesquisa/Módulo 1/Aula 1 - Introdução.md",
     "Faculdade/Metodologia da pesquisa/Módulo 2/Aula 2 - Projeto de pesquisa.md",
-    "Faculdade/Gerência de Projeto/Módulo 1/Aula 1 - Introdução.md",
-    "Faculdade/Metodologia da pesquisa/Metologia da Pesquisa.md",
-    "Faculdade/Metodologia da pesquisa/Módulo 2",
-    "Imagens/Pasted image 20240321220954.png",
-    "Faculdade/Gerência de Projeto/Gerência de Projeto.md",
-    "Pasted image 20240321214451.png",
-    "Imagens/Pasted image 20240321213855.png",
-    "Faculdade/Gerência de Projeto/Módulo 2",
-    "Imagens/Pasted image 20240320220345.png",
-    "Imagens/Pasted image 20240320220304.png",
-    "Imagens/Pasted image 20240320220217.png",
-    "Faculdade/Fenômenos de Transporte/Módulo 2/Aula 2 - Transferência da quantidade de moviemento.md",
-    "Faculdade/Fenômenos de Transporte/Aula 2/Aula 2 - Transferência da quantidade de movimento.md",
-    "Imagens/Pasted image 20240320215833.png",
-    "Imagens/Pasted image 20240320215650.png",
-    "Imagens/Pasted image 20240320215413.png",
-    "Faculdade/Fenômenos de Transporte/Módulo 2/Lei de Newton da viscosidade.md",
-    "Imagens/Pasted image 20240320215403.png",
-    "Faculdade/Fenômenos de Transporte/Módulo 2",
-    "Fenômenos de Transporte",
-    "Faculdade/Fenômenos de Transporte/Módulo 1/Aula 1 - Introdução.md",
-    "Faculdade/Faculdade.md",
-    "Faculdade/Metodologia da pesquisa/Módulo 1",
-    "Faculdade/Fenômenos de Transporte/Módulo 1/Lei de Fourrier.md",
-    "Faculdade/Metodologia da pesquisa",
-    "Início do projeto.md",
-    "Faculdade/Gerência de Projeto/Módulo 1/Estrutura Funcional.md",
-    "Faculdade/Gerência de Projeto/Módulo 1/Estrutura Matricial.md",
-    "Faculdade/Fenômenos de Transporte/Módulo 1",
-    "Faculdade/Gerência de Projeto/Módulo 1",
-    "Faculdade/Gerência de Projeto/Módulo 1/Estrutura Projetizada.md",
-    "Faculdade/Gerência de Projeto",
-    "Faculdade/Fenômenos de Transporte/Módulo 1/Calor.md",
-    "Faculdade/Fenômenos de Transporte/Módulo 1/Lei de Fick.md",
-    "Fenômenos de Transporte/Transferência da Quantidade de Movimento.md",
-    "Imagens",
-    "Welcome.md"
+    "Faculdade/Gerência de Projeto/Módulo 3/Aula 3 - áreas de conhecimento de suporte.md",
+    "Faculdade/Gerência de Projeto/Módulo 3",
+    "Faculdade/Gerência de Projeto/Módulo 2/Untitled",
+    "Faculdade/Gerência de Projeto/Módulo 2/Aula 2 - Áreas do conhecimento.md",
+    "Faculdade/Fenômenos de Transporte/Módulo 3/Aula 3 - Transferência de calor.md",
+    "Faculdade/Metodologia.md",
+    "Faculdade/Metodologia da pesquisa/Unidade 3/Untitled.md",
+    "Faculdade/Metodologia da pesquisa/Unidade 3",
+    "Programação/JavaScript/JavaScript.md",
+    "Programação/Programação.md",
+    "Programação/JavaScript/Projeto 13 - Faixa de preço.md",
+    "Programação/JavaScript/Projeto 7 - Múltiplos 3 e 5.md",
+    "Programação/JavaScript/Projeto 7 - Múltiplos de 3 e 5.md",
+    "Projeto 7 - Múltiplos 3 e 7.md",
+    "Projeto 7 - Múltiplos.md",
+    "Programação/JavaScript",
+    "Programação/CSS"
   ]
 }

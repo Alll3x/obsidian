@@ -1,7 +1,7 @@
 
 # São divididos em 3 transportes
 - [[Transferência da Quantidade de Movimento]]
-- [[Tranferência de Calor]]
+- [[Aula 3 - Transferência de calor]]
 - [[Transferência de Massa ]]
 # Modos de condução
  - Difusão ( no calor é condução)
@@ -17,8 +17,8 @@
 
 # Propriedade, estado e equilíbrio 
 
-- **Equilíbiro Térmico**: a temperatura é igual em todos os pontos do sistema.
-- **Equilíbrio mecânico**: a pressã é igual em todos os pontos do sistema.
+- **Equilíbrio Térmico**: a temperatura é igual em todos os pontos do sistema.
+- **Equilíbrio mecânico**: a pressão é igual em todos os pontos do sistema.
 - **Equilíbrio químico**: a composição química é igual em todos os pontos dos sistema. 
 - **Equilíbrio de fases**: dada uma determinada pressão e temperatura, terá um equilíbrio de fases entre vapor e líquido.
 
