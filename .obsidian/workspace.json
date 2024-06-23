@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "838d014980d64fed",
@@ -161,21 +160,22 @@
   },
   "active": "b4324b1dd4918ad1",
   "lastOpenFiles": [
+    "Faculdade/Circuitos Digitais/Modulo 2/Aula 2 - Portas lógicas e circuitos integrados digitais.md",
+    "Faculdade/Circuitos Digitais/Modulo 4/Aula 4 - Circuitos lógicos Sequenciais.md",
+    "Pasted image 20240623172609.png",
+    "Pasted image 20240623164558.png",
+    "Faculdade/Circuitos Digitais/Circuitos Digitais 1.md",
+    "Faculdade/Circuitos Digitais/Modulo 4",
+    "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md",
     "Imagens/Pasted image 20240622221448.png",
     "Imagens/Pasted image 20240622220440.png",
     "Pasted image 20240622221448.png",
     "Pasted image 20240622220440.png",
-    "Faculdade/Circuitos Digitais/Modulo 2/Aula 2 - Portas lógicas e circuitos integrados digitais.md",
-    "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md",
-    "Faculdade/Circuitos Digitais/Circuitos Digitais 1.md",
     "Imagens/Pasted image 20240622211736.png",
     "Imagens/Pasted image 20240622212546.png",
     "Imagens/Pasted image 20240622212502.png",
     "Imagens/Pasted image 20240622212335.png",
-    "Imagens/Pasted image 20240622212242.png",
-    "Imagens/Pasted image 20240622212158.png",
     "Faculdade/Circuitos Digitais/Modulo 3",
-    "Imagens/Pasted image 20240622181446.png",
     "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
     "Faculdade/Circuitos Digitais/Modulo 2",
     "Faculdade/Circuitos Digitais/Modulo 1",
@@ -201,11 +201,9 @@
     "Faculdade/Fenômenos de Transporte/Módulo 3/Aula 3 - Transferência de calor.md",
     "Faculdade/Metodologia.md",
     "Faculdade/Metodologia da pesquisa/Unidade 3/Untitled.md",
-    "Faculdade/Metodologia da pesquisa/Unidade 3",
     "Programação/JavaScript/JavaScript.md",
     "Programação/Programação.md",
     "Programação/JavaScript/Projeto 13 - Faixa de preço.md",
-    "Programação/JavaScript/Projeto 7 - Múltiplos 3 e 5.md",
-    "Programação/JavaScript/Projeto 7 - Múltiplos de 3 e 5.md"
+    "Programação/JavaScript/Projeto 7 - Múltiplos 3 e 5.md"
   ]
 }
