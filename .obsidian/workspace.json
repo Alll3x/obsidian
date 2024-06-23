@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "532f6fac0d0ed571",
+            "id": "b4324b1dd4918ad1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Circuitos Digitais/Circuitos Digitais 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4de6d9536895cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
+                "file": "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "838d014980d64fed",
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
+                "file": "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
+                "file": "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md"
+                "file": "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md"
               }
             }
           }
@@ -170,27 +159,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1b0bcaf4c8c4990e",
+  "active": "b4324b1dd4918ad1",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20240615183904.png",
-    "Imagens/Pasted image 20240615183518.png",
-    "Imagens/Pasted image 20240615182717.png",
-    "Imagens/Pasted image 20240615182248.png",
-    "Imagens/Pasted image 20240615180632.png",
-    "Imagens/Pasted image 20240615180617.png",
-    "Imagens/Pasted image 20240615175911.png",
-    "Imagens/Pasted image 20240615175738.png",
-    "Imagens/Pasted image 20240615175615.png",
+    "Imagens/Pasted image 20240622221448.png",
+    "Imagens/Pasted image 20240622220440.png",
+    "Pasted image 20240622221448.png",
+    "Pasted image 20240622220440.png",
+    "Faculdade/Circuitos Digitais/Modulo 2/Aula 2 - Portas lógicas e circuitos integrados digitais.md",
+    "Faculdade/Circuitos Digitais/Modulo 3/Aula 3 - Circuitos Combinacionais.md",
     "Faculdade/Circuitos Digitais/Circuitos Digitais 1.md",
+    "Imagens/Pasted image 20240622211736.png",
+    "Imagens/Pasted image 20240622212546.png",
+    "Imagens/Pasted image 20240622212502.png",
+    "Imagens/Pasted image 20240622212335.png",
+    "Imagens/Pasted image 20240622212242.png",
+    "Imagens/Pasted image 20240622212158.png",
+    "Faculdade/Circuitos Digitais/Modulo 3",
+    "Imagens/Pasted image 20240622181446.png",
     "Faculdade/Circuitos Digitais/Modulo 1/Aula 1 - Introdução.md",
+    "Faculdade/Circuitos Digitais/Modulo 2",
     "Faculdade/Circuitos Digitais/Modulo 1",
     "Faculdade/Faculdade.md",
     "Faculdade/Circuitos Digitais",
     "Faculdade/Metodologia da pesquisa/Unidade 4/Aula 4 - TCC.md",
     "Faculdade/Gerência de Projeto/Unidade 4/Aula 4 - Métodos Ágeis de gerenciamento de projetos.md",
     "Faculdade/Fenômenos de Transporte/Unidade 4/Aula 4 - Transferência de massa.md",
-    "Imagens/Pasted image 20240424212552.png",
-    "Imagens/Pasted image 20240424212504.png",
     "Faculdade/Fenômenos de Transporte/Módulo 1/Lei de Fick.md",
     "Faculdade/Fenômenos de Transporte/Unidade 4",
     "Faculdade/Fenômenos de Transporte/Fenômenos de Transporte.md",
@@ -213,10 +206,6 @@
     "Programação/Programação.md",
     "Programação/JavaScript/Projeto 13 - Faixa de preço.md",
     "Programação/JavaScript/Projeto 7 - Múltiplos 3 e 5.md",
-    "Programação/JavaScript/Projeto 7 - Múltiplos de 3 e 5.md",
-    "Projeto 7 - Múltiplos 3 e 7.md",
-    "Projeto 7 - Múltiplos.md",
-    "Programação/JavaScript",
-    "Programação/CSS"
+    "Programação/JavaScript/Projeto 7 - Múltiplos de 3 e 5.md"
   ]
 }
