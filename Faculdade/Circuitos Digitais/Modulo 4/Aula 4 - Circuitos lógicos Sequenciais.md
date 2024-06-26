@@ -1,4 +1,4 @@
-
+Probabilidade e estatística
 # Circuitos Sequenciais Digitais
 
 São sistemas digitais cujo comportamento não depende apenas das entradas atuais, mas também do histórico de entradas anteriores. Possuem memória, o que lhes permite "lembrar" estados passados e usar essa informação para determinar suas saídas e estados futuros.

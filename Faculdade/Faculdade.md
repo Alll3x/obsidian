@@ -6,3 +6,5 @@
 ### [[Metologia da Pesquisa]]
 
 ### [[Circuitos Digitais 1]]
+
+### [[PROBABILIDADE E ESTATÍSTICA]]
