@@ -45,3 +45,13 @@ Ex. Errar 4 chutes antes de acertar o quinto
 
 ![[Pasted image 20240627230648.png]]
 ![[Pasted image 20240627230706.png]]
+
+## Distribuição Normal
+
+Uma das mais importantes. Ocorre quando a média, a moda e a mediana são idênticos. O gráfico lembra um sino, é chamado de curva de Gauss.
+	![[Pasted image 20240627231407.png]]
+Tabela de distribuição na apostila
+
+![[Pasted image 20240627231621.png]]
+![[Pasted image 20240627232021.png]]
+![[Pasted image 20240627232259.png]]
