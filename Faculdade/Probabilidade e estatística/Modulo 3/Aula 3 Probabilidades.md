@@ -25,3 +25,23 @@ S: 5
 E: 2 
 
 P:                              3/5 * 2/5 = 6/25 = 0,24 * 100 = ==24%==
+
+# Distribuição de probabilidade
+
+## Distribuição Binomial
+
+É utilizada quando o fenômeno pode assumir apenas 2 possibilidades de resultado
+Ex. Nascimento de um animal(macho ou fêmea)
+	![[Pasted image 20240627225845.png]]
+
+![[Pasted image 20240627230158.png]]
+![[Pasted image 20240627230437.png]]
+
+## Distribuição Geométrica
+
+Conta o número de falhas até obtermos o sucesso. Assim, x assume o número de tentativas necessárias ao aparecimento do primeiro sucesso. 
+
+Ex. Errar 4 chutes antes de acertar o quinto
+
+![[Pasted image 20240627230648.png]]
+![[Pasted image 20240627230706.png]]
