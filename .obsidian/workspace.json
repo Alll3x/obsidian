@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "f0cb036c19874389",
+            "id": "f8153561b9e2f2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Probabilidade e estatística/Modulo 1/Aula 1 - Estatística Descritiva.md",
+                "file": "Faculdade/Probabilidade e estatística/Modulo 3/Aula 3 Probabilidades.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ae03958934b72d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Probabilidade e estatística/Modulo 2/Aula 2 Medidas estatísticas.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "838d014980d64fed",
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Probabilidade e estatística/Modulo 2/Aula 2 Medidas estatísticas.md",
+                "file": "Faculdade/Probabilidade e estatística/Modulo 3/Aula 3 Probabilidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Probabilidade e estatística/Modulo 2/Aula 2 Medidas estatísticas.md",
+                "file": "Faculdade/Probabilidade e estatística/Modulo 3/Aula 3 Probabilidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Probabilidade e estatística/Modulo 2/Aula 2 Medidas estatísticas.md"
+                "file": "Faculdade/Probabilidade e estatística/Modulo 3/Aula 3 Probabilidades.md"
               }
             }
           }
@@ -171,8 +158,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1ae03958934b72d9",
+  "active": "f8153561b9e2f2ed",
   "lastOpenFiles": [
+    "README.md.md",
+    "Faculdade/Probabilidade e estatística/Modulo 3/Aula 3 Probabilidades.md",
+    "Imagens/Pasted image 20240627223840.png",
+    "Imagens/Pasted image 20240627223305.png",
+    "Faculdade/Probabilidade e estatística/PROBABILIDADE E ESTATÍSTICA.md",
+    "Faculdade/Probabilidade e estatística/Modulo 3",
     "Faculdade/Probabilidade e estatística/Modulo 1/Aula 1 - Estatística Descritiva.md",
     "Faculdade/Probabilidade e estatística/Modulo 2/Aula 2 Medidas estatísticas.md",
     "Imagens/Pasted image 20240625224100.png",
@@ -183,9 +176,6 @@
     "Imagens/Pasted image 20240625222626.png",
     "Imagens/Pasted image 20240625222302.png",
     "Imagens/Pasted image 20240625221330.png",
-    "Imagens/Pasted image 20240625221010.png",
-    "Imagens/Pasted image 20240625220842.png",
-    "Faculdade/Probabilidade e estatística/PROBABILIDADE E ESTATÍSTICA.md",
     "Faculdade/Probabilidade e estatística/Modulo 2",
     "Faculdade/Probabilidade e estatística/Modulo 1",
     "Faculdade/Circuitos Digitais/Modulo 4/Aula 4 - Circuitos lógicos Sequenciais.md",
@@ -207,7 +197,6 @@
     "Faculdade/Fenômenos de Transporte/Unidade 4",
     "Faculdade/Fenômenos de Transporte/Fenômenos de Transporte.md",
     "Faculdade/Metodologia da pesquisa/Metologia da Pesquisa.md",
-    "Faculdade/Gerência de Projeto/Unidade 4",
     "Faculdade/Gerência de Projeto/Gerência de Projeto.md",
     "Faculdade/Metodologia da pesquisa/Unidade 3/Aula 3 - Instrumento de coleta de dados.md",
     "Faculdade/Metodologia da pesquisa/Módulo 1/Aula 1 - Introdução.md",
@@ -216,7 +205,6 @@
     "Faculdade/Gerência de Projeto/Módulo 2/Aula 2 - Áreas do conhecimento.md",
     "Faculdade/Fenômenos de Transporte/Módulo 3/Aula 3 - Transferência de calor.md",
     "Faculdade/Metodologia.md",
-    "Faculdade/Metodologia da pesquisa/Unidade 3/Untitled.md",
-    "Programação/JavaScript/JavaScript.md"
+    "Faculdade/Metodologia da pesquisa/Unidade 3/Untitled.md"
   ]
 }
