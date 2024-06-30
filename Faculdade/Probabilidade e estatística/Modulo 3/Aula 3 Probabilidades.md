@@ -4,6 +4,7 @@
 - **Princípio Fundamental da contagem (possibilidades):** Uma montadora produz 3 tipos de veículos, estes são fabricados em 2 cores e em 2 opções de modelo. Quantas configurações diferentes são possíveis. -> ==3 x 2 x 2 = 12 possibilidades==
 - **Combinações:** Agrupamento de elementos em que a ordem não interfere, são chamados de combinações simples.
 	![[Pasted image 20240627223305.png]] 
+## Probabilidade
 - **Espaço amostral:** é o total de eventos
 - **Eventos:** são os casos favoráveis
 	![[Pasted image 20240627223840.png]]
@@ -55,3 +56,31 @@ Tabela de distribuição na apostila
 ![[Pasted image 20240627231621.png]]
 ![[Pasted image 20240627232021.png]]
 ![[Pasted image 20240627232259.png]]
+
+
+# Intervalo de confiança
+
+É a probabilidade intervalar de algo ocorrer, a chance de algo o correr estimando 2 limites, com um relativo risco.
+
+Ex. Se temos 95% de chance de algo acontecer, temos 5% de não acontecer, sendo 2,5% de erro para mais e 2,5% para menos
+Então: 
+==95% de nível de confiança==
+==5% de nível de significância ou de desconfiança==
+
+## Margem de erro, ou erro máximo
+
+Pode ser entendido como a quantia que o fenômeno pode oscilar, para cima ou para baixo. Quando a população ==N== for infinita ou não fornecida.
+![[Pasted image 20240628223531.png]]
+ Amostra ==abaixo de 30== elementos: ==tabela T== (amostras pequenas)
+ ![[Pasted image 20240628224428.png]]
+ Amostra ==acima de 30== elementos: ==tabela Z== (amostras grandes)
+ ![[Pasted image 20240628223817.png]]
+
+Ex. Amostra Grande
+![[Pasted image 20240628223608.png]]
+![[Pasted image 20240628223903.png]]
+
+Ex. Amostra pequena
+Em amostra pequena sempre considerar o grau de liberdade para olhar na tabela
+![[Pasted image 20240628224300.png]]
+![[Pasted image 20240628224412.png]]
