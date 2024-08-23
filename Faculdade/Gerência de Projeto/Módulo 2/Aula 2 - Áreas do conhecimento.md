@@ -97,8 +97,8 @@ Medir o desempenho dos prazos e custos do projeto
 - **Custo real (CR)**: custo incorrido no trabalho realizado
 - **Variação de Custos (VC)**: VC = VC - CR
 - **Variação de prazos (VPR)**: VPR = VA - VP
-- **Índice de Desempenho de custos (IDC)**: ICD = VA / VP
-- **Índice de Desempenho de Prazos (IDP)**: IDP = VA / VP
+- **Índice de Desempenho de custos (IDC/ CPI)**: ICD = VA / CR
+- **Índice de Desempenho de Prazos (IDP/ SPI)**: IDP = VA / VP
 - ![[Pasted image 20240412114755.png]]
 
 ## Gerenciamento da Qualidade
